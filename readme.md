@@ -1,3 +1,5 @@
+[working repo](https://github.com/JoshCantor/spotifeye)
+
 #Angular group project brainstorming -- examples & ideas:
 
 ##tutorial
