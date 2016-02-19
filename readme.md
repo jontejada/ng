@@ -1,3 +1,46 @@
+#SpotifEYE.com
+
+##Description
+    An Angular SPA, with **interactive visualizations** + functionality layered on top of Spotify. SpotifEYE uses the Spotify echonest and webAPIs to compile and visulaize music data.
+
+## Who uses it?
+    Music lovers and their friends.
+
+## What outputs do they need?
+    User needs to log into spotify using their credentials or facebook.
+
+## What inputs are needed to generate those outputs?
+    
+
+##A list of technologies that you plan to use
+    * D3
+    * Angular:
+        * ngAnimate
+        * ngRoute
+    * Express & Node
+    * Knex and Posql
+    * HTML
+    * Oath 2.0
+    * Spotify and Echonest APIs
+    * Heroku
+    * Gulp
+    * Mocha, Chain and Protactor, Celenium
+
+
+## Feature List:
+    * User can:
+        * compile playlists visually/visulize playlist
+        * build unique playlist based on echonest acousic attributes
+            + other factors
+        * User can Login
+        * User can signup
+        * User can see visualize patterns from spotify builtin playlists.
+        * User can access his/her playlists
+        * User can listen to music.
+        * User can connect with other User.
+
+
+
 #Angular group project brainstorming -- examples & ideas:
 
 ##tutorial
